@@ -19,6 +19,7 @@
 		9B5F1A4C2226CEBE00A99FB5 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5F1A4B2226CEBE00A99FB5 /* InterfaceController.swift */; };
 		9B5F1A4E2226CEBE00A99FB5 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5F1A4D2226CEBE00A99FB5 /* ExtensionDelegate.swift */; };
 		9B5F1A502226CEBE00A99FB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B5F1A4F2226CEBE00A99FB5 /* Assets.xcassets */; };
+		9B5F1A602226D7B400A99FB5 /* CountryRowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5F1A5F2226D7B400A99FB5 /* CountryRowController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		9B5F1A4D2226CEBE00A99FB5 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		9B5F1A4F2226CEBE00A99FB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B5F1A512226CEBE00A99FB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B5F1A5F2226D7B400A99FB5 /* CountryRowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryRowController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 			children = (
 				9B5F1A4B2226CEBE00A99FB5 /* InterfaceController.swift */,
 				9B5F1A4D2226CEBE00A99FB5 /* ExtensionDelegate.swift */,
+				9B5F1A5F2226D7B400A99FB5 /* CountryRowController.swift */,
 				9B5F1A4F2226CEBE00A99FB5 /* Assets.xcassets */,
 				9B5F1A512226CEBE00A99FB5 /* Info.plist */,
 			);
@@ -295,6 +298,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B5F1A602226D7B400A99FB5 /* CountryRowController.swift in Sources */,
 				9B5F1A4E2226CEBE00A99FB5 /* ExtensionDelegate.swift in Sources */,
 				9B5F1A4C2226CEBE00A99FB5 /* InterfaceController.swift in Sources */,
 			);
