@@ -25,10 +25,16 @@
                                             <label alignment="center" verticalAlignment="center" text="India" id="6K2-Vc-ftX"/>
                                         </items>
                                     </group>
+                                    <connections>
+                                        <outlet property="countryNameLabel" destination="6K2-Vc-ftX" id="cBE-74-Sn3"/>
+                                    </connections>
                                 </tableRow>
                             </items>
                         </table>
                     </items>
+                    <connections>
+                        <outlet property="countryTable" destination="gJ1-GV-v47" id="jY6-IY-3Da"/>
+                    </connections>
                 </controller>
             </objects>
         </scene>

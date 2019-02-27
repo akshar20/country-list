@@ -9,5 +9,7 @@
 import WatchKit
 
 class CountryRowController: NSObject {
-
+    // TABLE ROW REFERENCE
+    @IBOutlet weak var countryNameLabel: WKInterfaceLabel!
+    
 }
